@@ -16,6 +16,8 @@
 	<string>6.0</string>
 	<key>CFBundleName</key>
 	<string>posture_alert</string>
+	<key>NSCameraUsageDescription</key>
+	<string>A câmera é usada para analisar sua postura durante o monitoramento.</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
